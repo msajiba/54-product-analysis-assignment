@@ -24,7 +24,7 @@ const Home = () => {
                 
             <div>
 
-                <h3 className='mb-6 text-bolder text-5xl text-center'> Customer Reviews {sliceProduct.length} </h3>
+                <h3 className='mb-6 text-bolder text-5xl text-center'> Customer Reviews ({sliceProduct.length}) </h3>
 
 
                         {

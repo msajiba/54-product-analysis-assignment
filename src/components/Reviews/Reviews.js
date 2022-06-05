@@ -1,3 +1,4 @@
+import { Processor } from 'postcss';
 import React from 'react';
 import useProduct from '../../hook/useProduct';
 import ReviewiItem from '../ReviewItem/ReviewiItem';
@@ -11,7 +12,9 @@ const Reviews = () => {
 
     return (
         <div>
-            
+
+                <h1 className='mb-6 text-bolder text-3xl text-center'>Custom Total Reviews ({products.length}) </h1>
+
             {
                 products.map(product=> <ReviewiItem 
 
