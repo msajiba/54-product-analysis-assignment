@@ -1,0 +1,52 @@
+[
+    {
+      "_id": "623853b2614ad5aba311fdd1",
+      "ratting": " 4.5 of 5",
+      "picture": "https://www.amazon.com/avatar/default/amzn1.account.AH6S2QX2KHOFTESRQPQH77RVZXPQ?square=true&max_width=460",
+      "name": "Miranda Zermeno",
+      "review": "I was looking forward in getting a cool multiple color keyboard and this one started off great. However, after two weeks of usage the paint to the letters and the letters themselves along the keys started to rub off. I’m pretty bummed out since I saw great reviews on it but now I have to look for another one."
+
+    },
+    {
+      "_id": "623853b2578e9e6ad1ae0dd5",
+      "ratting": " 5 of 5",
+      "picture": "data:image/jpeg;base64,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",
+      "name": "Phylicia Dublin",
+      "review": "I love the feel of the keyboard - the keys press very easily and the added light is a plus if I’m working early morning or late night."
+    },
+    {
+      "_id": "623853b21fb149d2ee7b76c7",
+      "ratting": " 4 of 5",
+      "picture": "https://static01.nyt.com/newsgraphics/2020/11/12/fake-people/4b806cf591a8a76adfc88d19e90c8c634345bf3d/fallbacks/mobile-02.jpg",
+      "name": "Jhon David",
+      "review": "This keyboard should not be allowed to exist. I thought it would type like my MSI laptop keyboard, because the rounded buttons look very similar. Unfortunately, typing any key on this thing is always hit or miss. I returned mine after using it twice. Buyer beware."
+    },
+    {
+      "_id": "623853b2e91c8de578c9245e",
+      "ratting": " 2 of 5",
+      "picture": "https://www.amazon.com/avatar/default/amzn1.account.AFZIKCCUEIXUAGRUBA7J2AQVLFNA?square=true&max_width=460",
+      "name": "Charles J. Kader",
+      "review": "So far I'm loving my Fiodio 61 Keys RGB Wireless and Wired Mechanical Gaming Keyboard with Blue Switches. I purchased this because I wanted to clean up my desktop and wanted to color pop. This FIODIO was the perfect choice for me."
+    },
+    {
+      "_id": "623853b2239582e48409ccc6",
+      "ratting": " 3.5 of 5",
+      "picture": "https://m.media-amazon.com/images/I/31Ve0GKc23L._SX450_.jpg",
+      "name": "Shraken",
+      "review": "I have no idea how this has such a high score.The first one I got had trouble with the Question Mark key. It would constantly do a repeating backslack.I returned and got a replacement, the second had a dead Nine key."
+    },
+    {
+      "_id": "623853b2cdda0d5bc294f791",
+      "ratting": " 4.5 of 5",
+      "picture": "https://m.media-amazon.com/images/S/amzn-author-media-prod/vfii0davmflqk4n37ujsqsaf1u._SX450_.jpg",
+      "name": "Rona Halsall",
+      "review": "I am writing this after my kid dumped a large mug of chocolate milk on his SteelSeries Apex Pro. He didn't clean it up immediately so it had time to spread. When he tried it, about the only thing that worked was the tilde key. I've been in IT for years so I figured I'd try to clean it up before trashing it. It was already totaled so why not try, eh?"
+    },
+    {
+      "_id": "623853b2736f19fd4eb8d44a",
+      "ratting": " 4 of 5",
+      "picture": "https://m.media-amazon.com/images/S/amzn-author-media-prod/36o3f295cak367j7surnh5crji._SX450_.jpg",
+      "name": "Ephraim Gonzales",
+      "review": "Such a high quality built keyboard. I got the TKL version and its very compact. I really love the magnetic wrist rest. It looks even better with PBT key caps and the rgb shines nicely. This has lots of good features and best for its price. Typing is insanely fun with the brown keys."
+    }
+  ]

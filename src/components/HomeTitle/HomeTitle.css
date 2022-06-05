@@ -1,0 +1,15 @@
+.header-container {
+    /* margin: 0 auto; */
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    
+}
+.image-container img {
+    text-align: center;
+    height: 400px;
+    width: 95%;
+}
+
+.home-title {
+    height: 100vh;
+}

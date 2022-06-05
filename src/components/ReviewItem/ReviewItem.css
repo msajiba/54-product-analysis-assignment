@@ -1,0 +1,11 @@
+.item-container {
+    margin: 0 auto;
+    border:1px solid gray;
+    margin-bottom: 20px;
+    
+}
+
+.icon-container {
+    display: flex;
+    align-items: center;
+}

@@ -1,0 +1,16 @@
+nav{
+    padding: 10px 0px;
+}
+nav a {
+    margin: 10px;
+    color:white;
+    padding: 10px 5px;
+    border-radius: 5px;
+}
+nav a:hover {
+    background: rgb(7, 152, 209);
+}
+
+.header-container {
+    
+}
