@@ -60,7 +60,7 @@ const Dashboard = () => {
   
 
     return (
-        <div className='dashboard-container container mx-auto px-4 grid grid-cols-2 gap-2'>
+        <div className='dashboard-container container mx-auto px-4 grid grid-cols-2 gap-2 sm:grid-col-1'>
             <div className="first-container">
                 <h3 className='mb-5 underline'> Product Line Chart  </h3>
                 {renderLineChart}

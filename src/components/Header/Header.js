@@ -12,19 +12,19 @@ const Header = () => {
 
     return (
 
-        <div className='text-center header-container'>
-            <div onClick={()=> setOpen(!open)} className='w-8 h-8 md:hidden'>
-                {open ? <XIcon> </XIcon> :<MenuIcon></MenuIcon>}
+        <div className='text-center header-container mb-10 pb-10'>
+
+            <div onClick={()=> setOpen(!open)} className="w-6 h-6 md:hidden">
+                { open? <XIcon> </XIcon> :  <MenuIcon> </MenuIcon> }
             </div>
 
-            <nav className={`md:flex justify-center  absolute w-full ${open?"top-8px":"top-[-150px]"} `}>
+            <nav className={`md:flex justify-center sm:bg-green-200 duration-200 ease-in absolute w-full ${open ?"top-8" :"top-[-150px]"} `}>
                 <CustomLink to='/'> HOME </CustomLink>
                 <CustomLink to='/reviews'> REVIEWS </CustomLink>
                 <CustomLink to='/dashboard'> DASHBOARD </CustomLink>
                 <CustomLink to='/blogs'> BLOGS </CustomLink>
                 <CustomLink to='/about'> ABOUT </CustomLink>
             </nav>
-            <br />
             <br />
             <br />
             <br />
